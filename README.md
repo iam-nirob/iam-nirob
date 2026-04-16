@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<h1> Hey I'm Nirob <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+<h1> Hey I'm Nirob <img src="https://em-content.zobj.net/source/joypixels-animations/366/waving-hand_1f44b.gif" width="40" /></h1>
 
 <h3>A Passionate Web Developer</h3>
 
