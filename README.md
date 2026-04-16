@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nirobsarker012@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirobsarker012&label=Profile%20views&color=0e75b6&style=flat" alt="nirobsarker012" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-nirob&label=Profile%20views&color=0e75b6&style=flat" alt="im-nirob" />
 
 </p>
 
@@ -44,16 +44,16 @@
 
 ## Overview
 
-<a href="https://github.com/nirobsarker012">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nirobsarker012&theme=radical" />
+<a href="https://github.com/im-nirob">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=im-nirob&theme=radical" />
 </a>
 <br>
 <br>
-<a href="https://github.com/nirobsarker012">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirobsarker012&layout=compact&langs_count=8&card_width=320&theme=radical" />
+<a href="https://github.com/im-nirob">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-nirob&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <br>
 <br>
-<a href="https://github.com/nirobsarker012">
-    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=nirobsarker012&card_width=782&theme=radical" alt="nirobsarker012" />
+<a href="https://github.com/im-nirob">
+    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=im-nirob&card_width=782&theme=radical" alt="im-nirob" />
 </a>
